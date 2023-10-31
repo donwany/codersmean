@@ -37,6 +37,8 @@ print(result)
 
 ### Install package from Github
 ```r
+# both works
+install_github("https://github.com/donwany/codersmean")
 install_github("donwany/codersmean")
 
 library("codersmean")
